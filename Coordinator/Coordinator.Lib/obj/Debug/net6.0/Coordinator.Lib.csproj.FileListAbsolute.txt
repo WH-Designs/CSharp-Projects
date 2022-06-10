@@ -1,0 +1,12 @@
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.Lib\obj\Debug\net6.0\Coordinator.Lib.csproj.AssemblyReference.cache
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.Lib\obj\Debug\net6.0\Coordinator.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.Lib\obj\Debug\net6.0\Coordinator.Lib.AssemblyInfoInputs.cache
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.Lib\obj\Debug\net6.0\Coordinator.Lib.AssemblyInfo.cs
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.Lib\obj\Debug\net6.0\Coordinator.Lib.csproj.CoreCompileInputs.cache
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.Lib\bin\Debug\net6.0\Coordinator.Lib.deps.json
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.Lib\bin\Debug\net6.0\Coordinator.Lib.dll
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.Lib\bin\Debug\net6.0\Coordinator.Lib.pdb
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.Lib\obj\Debug\net6.0\Coordinator.Lib.dll
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.Lib\obj\Debug\net6.0\refint\Coordinator.Lib.dll
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.Lib\obj\Debug\net6.0\Coordinator.Lib.pdb
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.Lib\obj\Debug\net6.0\ref\Coordinator.Lib.dll

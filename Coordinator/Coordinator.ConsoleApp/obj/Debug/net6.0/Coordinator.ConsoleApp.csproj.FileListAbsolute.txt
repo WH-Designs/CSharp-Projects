@@ -1,0 +1,15 @@
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.ConsoleApp\bin\Debug\net6.0\Coordinator.ConsoleApp.exe
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.ConsoleApp\bin\Debug\net6.0\Coordinator.ConsoleApp.deps.json
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.ConsoleApp\bin\Debug\net6.0\Coordinator.ConsoleApp.runtimeconfig.json
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.ConsoleApp\bin\Debug\net6.0\Coordinator.ConsoleApp.dll
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.ConsoleApp\bin\Debug\net6.0\Coordinator.ConsoleApp.pdb
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.ConsoleApp\obj\Debug\net6.0\Coordinator.ConsoleApp.csproj.AssemblyReference.cache
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.ConsoleApp\obj\Debug\net6.0\Coordinator.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.ConsoleApp\obj\Debug\net6.0\Coordinator.ConsoleApp.AssemblyInfoInputs.cache
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.ConsoleApp\obj\Debug\net6.0\Coordinator.ConsoleApp.AssemblyInfo.cs
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.ConsoleApp\obj\Debug\net6.0\Coordinator.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.ConsoleApp\obj\Debug\net6.0\Coordinator.ConsoleApp.dll
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.ConsoleApp\obj\Debug\net6.0\refint\Coordinator.ConsoleApp.dll
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.ConsoleApp\obj\Debug\net6.0\Coordinator.ConsoleApp.pdb
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.ConsoleApp\obj\Debug\net6.0\Coordinator.ConsoleApp.genruntimeconfig.cache
+C:\School\CS 365\Scheduler\Coordinator\Coordinator.ConsoleApp\obj\Debug\net6.0\ref\Coordinator.ConsoleApp.dll

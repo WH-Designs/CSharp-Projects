@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FoodCart": {
+      "commandName": "Project",
+      "commandLineArgs": "3 10 30"
+    }
+  }
+}
